@@ -1,0 +1,59 @@
+.head-banner{
+    background-image: url("https://i.ibb.co/8K9CvXN/4.jpg");  
+    background-repeat: no-repeat;
+    /* background-size: 100%; */
+    width: 100%;
+    min-height: 400px;  
+    margin-bottom: 0;
+    /* background-attachment: fixed; */
+    /* background-position: center; */
+    background-size: cover; 
+}
+
+
+
+
+.row {
+    --bs-gutter-x: 0!important;
+}
+
+/* Car Inspection */
+.section-padding {
+    padding: 90px 0;
+}
+
+a, b, div, ul, li {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
+    -moz-outline-: none;
+}
+
+.car-inspection h3 {
+    color: #323232;
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.car-inspection h2 {
+    color: #323232;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.4em;
+    text-transform: uppercase;
+}
+
+.car-inspection p {
+    margin-top: 20px;
+}
+
+.car-inspection ul {
+    margin-bottom: 30px;
+    overflow: hidden;
+    position: relative;
+}
+
+li{
+    list-style: none;
+}
+

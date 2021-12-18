@@ -1,0 +1,16 @@
+.register{
+    /* background-color: rgb(230, 185, 199); */
+}
+.sign-up{
+    /* background-color: rgb(255, 127, 159); */
+    border-radius: 15px;
+    /* margin: 45px; */
+}
+.already-account{
+    text-decoration: none;
+    font-style: italic;
+    /* color: brown; */
+}
+.social-button{
+    text-decoration: none;
+}
